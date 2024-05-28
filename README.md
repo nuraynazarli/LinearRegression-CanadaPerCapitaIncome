@@ -1,4 +1,4 @@
-# LinearRegression_CanadaPerCapitaIncome
+# Linear Regression for Predicting Canada's Per Capita Income
 
 ## Overview
 This repository contains code for a simple linear regression model to predict Canada's per capita income based on historical data. The model is built using Python and the scikit-learn library.
