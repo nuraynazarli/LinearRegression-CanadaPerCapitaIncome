@@ -17,7 +17,7 @@ To run the code in this repository, you'll need the following dependencies:
 You can install the dependencies using pip.
 
 ## Result
-We know that the formuls is y = a * x + b. a is coefficient which I found it with "reg.coef_" code. b is interception which I found it with "reg.intercep_" code:
+We know that the formuls is y = a * x + b. a represents the coefficient or slope of the line which I found it with "reg.coef_" code. b represents the y-intercept which I found it with "reg.intercept_" code:
 - a = 828.46507522
 - b = -1632210.7578554575
 - If we want to find the income in 2024, our x will be 2025.
