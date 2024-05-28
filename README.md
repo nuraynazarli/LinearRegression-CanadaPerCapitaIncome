@@ -10,7 +10,6 @@ The dataset used for training the model is included in the repository as `canada
 
 ## Dependencies
 To run the code in this repository, you'll need the following dependencies:
-- Python (version 3.x)
 - scikit-learn
 - pandas
 - matplotlib (for visualizing data)
