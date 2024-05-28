@@ -22,4 +22,4 @@ We know that the formuls is y = a * x + b. a is coefficient which I found it wit
 - a = 828.46507522
 - b = -1632210.7578554575
 - If we want to find the income in 2024, our x will be 2025.
-- y = 828.46507522 * 2025 + (-1632210.7578554575) and y will be 44602.55439531 as the result in the given example.
+- y = 828.46507522 * 2025 + (-1632210.7578554575) and y will be 44602.55439531 as in the given example.
