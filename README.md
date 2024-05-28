@@ -20,5 +20,5 @@ You can install the dependencies using pip.
 We know that the formula is y = a * x + b. a represents the coefficient or slope of the line which I found it with "reg.coef_" code. b represents the y-intercept which I found it with "reg.intercept_" code:
 - a = 828.46507522
 - b = -1632210.7578554575
-- If we want to find the income in 2024, our x will be 2025.
+- If we want to find the income for 2024, our x will be 2025.
 - y = 828.46507522 * 2025 + (-1632210.7578554575) and y will be 44602.55439531 as in the given example.
